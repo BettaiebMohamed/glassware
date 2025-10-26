@@ -1,4 +1,4 @@
-# Glassware
+# Glassware Application
 
 A React web application built using **Vite**, **React Bootstrap**, **React Router**, and **Axios**.
 
